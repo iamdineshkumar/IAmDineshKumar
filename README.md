@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdineshkumar&layout=compact&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdineshkumar&count_private=true&show_icons=true&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdineshkumar&count_private=true&show_icons=true&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdineshkumar&theme=default)
 
