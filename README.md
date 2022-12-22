@@ -4,6 +4,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdineshkumar&count_private=true&show_icons=true&theme=monokai)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdineshkumar&theme=default)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=iamdineshkumar)
 
 <!--
